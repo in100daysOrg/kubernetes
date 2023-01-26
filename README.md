@@ -1,2 +1,2 @@
 # Kubernetes
-Master Kubernetes scripting in 100 days! 
+Master Kubernetes in 100 days! 
